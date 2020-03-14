@@ -1,1 +1,1 @@
-# web_html
+# Strona HTML z wykprzystaniem css oraz javascript
