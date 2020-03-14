@@ -1,1 +1,1 @@
-# Strona HTML z wykprzystaniem css oraz javascript
+# Strona HTML z wykorzystaniem css oraz javascript
